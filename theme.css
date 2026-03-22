@@ -1,50 +1,49 @@
 :root {
-  /* bg colors */
-  --bg-primary-color: #0e0e0e;
-  --bg-secondary-color: #282828;
-  --bg-active-color: #f6f6f6;
-  --bg-danger-color: #d73535;
-  --bg-success-color: #1db51d;
+  /* 🎨 Backgrounds */
+  --bg-primary-color: #0b0f19;
+  --bg-secondary-color: rgba(255, 255, 255, 0.05);
+  --bg-glass: rgba(255, 255, 255, 0.08);
+  --bg-active-color: linear-gradient(135deg, #7c3aed, #06b6d4);
+  --bg-danger-color: #ef4444;
+  --bg-success-color: #22c55e;
 
-  /* text colors */
-  --text-primary-color: #f6f6f6;
-  --text-secondary-color: #dbd9d9;
-  --text-tertiary-color: #9cc0cb;
-  --text-active-color: #1b1818;
+  /* 📝 Text */
+  --text-primary-color: #e5e7eb;
+  --text-secondary-color: #9ca3af;
+  --text-tertiary-color: #67e8f9;
+  --text-active-color: #ffffff;
 
-  /* paddings */
+  /* ✨ Glow Accent */
+  --accent-color: #7c3aed;
+  --accent-secondary: #06b6d4;
+
+  /* 📏 Spacing (same as yours) */
   --padding-sm: 0.5rem;
   --padding-md: 1rem;
   --padding-lg: 1.5rem;
   --padding-xl: 2rem;
   --padding-2xl: 3rem;
 
-  /* margin */
   --margin-sm: 0.5rem;
   --margin-md: 1rem;
   --margin-lg: 1.5rem;
   --margin-xl: 2rem;
   --margin-2xl: 3rem;
 
-  /* gutter */
   --gutter-sm: 0.5rem;
   --gutter-md: 1rem;
   --gutter-lg: 1.5rem;
   --gutter-xl: 2rem;
   --gutter-2xl: 3rem;
 
-  /* font sizes */
+  /* 🔤 Fonts */
   --font-size-sm: 0.875rem;
   --font-size-md: 1rem;
   --font-size-lg: 1.125rem;
   --font-size-xl: 1.25rem;
   --font-size-2xl: 1.5rem;
-  --font-size-3xl: 1.875rem;
-  --font-size-4xl: 2.25rem;
-  --font-size-5xl: 3rem;
-  --font-size-6xl: 3.75rem;
 
-  /* border radius */
+  /* 🔲 Radius */
   --border-radius-sm: 0.25rem;
   --border-radius-md: 0.5rem;
   --border-radius-lg: 0.75rem;
